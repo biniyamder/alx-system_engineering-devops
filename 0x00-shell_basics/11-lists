@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na [file] [parent] [/root]
+ls -na / /boot
